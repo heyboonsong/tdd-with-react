@@ -1,0 +1,15 @@
+{
+  "name": "tdd-with-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/srithong/tdd-with-react.git",
+  "author": "song <heyboonsong@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}
